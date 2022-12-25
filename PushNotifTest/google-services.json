@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705699640381",
+    "project_id": "wordup-b6448",
+    "storage_bucket": "wordup-b6448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705699640381:android:e4c4611aaa0b56debfe654",
+        "android_client_info": {
+          "package_name": "co.wordupapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705699640381-omfo0h0jli0h3e54v2tuli976r8a4lqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArKft6LYddgQP4WXgDyNKbgxAieO_MGGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705699640381-omfo0h0jli0h3e54v2tuli976r8a4lqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
